@@ -1,0 +1,5 @@
+package com.learnjava.model;
+
+public class Food {
+
+}
